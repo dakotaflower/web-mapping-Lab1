@@ -23,5 +23,6 @@
 * Collecting silviculture research data
 
 
-<img src="/Resume/img/DW_bulbifera.png"/>
+<img src="img/DW_bulbifera.png"/>
+
 
