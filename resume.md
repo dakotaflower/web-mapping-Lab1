@@ -22,4 +22,5 @@
 *May 2019 - October 2019*
 * Collecting silviculture research data
 
-<img src="/Resume/img/DW_bulbifera.png"/>
+
+<img src="Resume/img/DW_bulbifera.png"/>
